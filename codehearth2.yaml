@@ -1,0 +1,8 @@
+name: Test Sample
+public_path: D:\MyDev\2026\Flutter\CodeHearth\test_project\public\test-0001
+
+sync:
+  include:
+    - test/**
+    - test.md
+    - README.md
