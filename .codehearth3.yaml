@@ -1,0 +1,6 @@
+name: test-0001
+public_path: 'D:\MyDev\test_project\public\test-0001'
+
+sync:
+  exclude:
+    - .codehearth.yaml
