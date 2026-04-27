@@ -1,2 +1,6 @@
 name: test-0001
 public_path: '..\..\public\test-0001'
+
+sync:
+  exclude:
+    - .codehearth5.yaml
